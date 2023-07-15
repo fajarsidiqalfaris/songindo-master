@@ -1,0 +1,16 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 8,
+        "type": "DEFAULT",
+        "title": "Lagu Nasional",
+        "localImageResource": "thumbnail_example_music_consumption",
+        "description": "Kumpulan Lagu Nasional Indonesia"
+      }
+
+
+    ]
+  }
+]

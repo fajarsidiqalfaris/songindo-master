@@ -1,0 +1,101 @@
+{
+  "songs": [
+    {
+      "number": 1,
+      "duration": "4:28",
+      "title": "Indonesia Raya",
+      "description": "Wage Rudolf Supratman/Lagu Kebangsaan Indonesia",
+      "image": "card_image_music_01",
+      "file": "track_01"
+    },
+    {
+      "number": 2,
+      "duration": "3:14",
+      "title": "Garuda Pancasila",
+      "description": "Sudharnoto/Melambangkan Lambang Negara Indonesia yaitu Burung Garuda",
+      "image": "card_image_music_01",
+      "file": "track_02"
+    },
+    {
+      "number": 3,
+      "duration": "3:58",
+      "title": "Tanah Airku",
+      "description": "Ibu Sud/Menggambarkan Tentang Keindahan Alam Indonesia",
+      "image": "card_image_music_01",
+      "file": "track_03"
+    },
+    {
+      "number": 4,
+      "duration": "2:37",
+      "title": "Bagimu Negeri",
+      "description": "Kusbini/Menyiratkan Semangat untuk Mengorbankan Apa Saja Demi Negerinya",
+      "image": "card_image_music_01",
+      "file": "track_04"
+    },
+    {
+      "number": 5,
+      "duration": "2:32",
+      "title": "Dari Sabang Sampai Merauke",
+      "description": "R. Soeharjo/ Memperingati Hari Kemerdekaan",
+      "image": "card_image_music_01",
+      "file": "track_05"
+    },
+    {
+      "number": 6,
+      "duration": "3:43",
+      "title": "Maju Tak Gentar",
+      "description": "Cornel Simanjuntak/ Meningkatkan Semangat Cinta Tanah Air",
+      "image": "card_image_music_01",
+      "file": "track_06"
+    },
+    {
+      "number": 7,
+      "duration": "2:54",
+      "title": "Mengheningkan Cipta",
+      "description": "Truno Prawit/Memperingati Hari Pahlawan",
+      "image": "card_image_music_01",
+      "file": "track_07"
+    },
+    {
+      "number": 8,
+      "duration": "2:38",
+      "title": "Bangun Pemudi Pemida",
+      "description": "Alfred Simanjuntak/Tentang emangat dan harapan bagi pemuda dan pemudi Indonesia",
+      "image": "card_image_music_01",
+      "file": "track_08"
+    },
+    {
+      "number": 9,
+      "duration": "3:01",
+      "title": "Ibu Kita Kartini",
+      "description": "WR Supratman/Untuk mengenang jasa Pahlawan R.A. Kartini",
+      "image": "card_image_music_01",
+      "file": "track_09"
+    },
+    {
+      "number": 10,
+      "duration": "3:54",
+      "title": "Berkibarlah Benderaku",
+      "description": "Ibu Sud/Menggambarkan perjuangan para pahlawan Indonesia dalam usaha mengibarkan bendera merah putih untuk mencapai kemerdekaan Indonesia",
+      "image": "card_image_music_01",
+      "file": "track_10"
+    },
+    {
+      "number": 11,
+      "duration": "2:38",
+      "title": "Sorak Sorak Bergembira",
+      "description": "Cornel Simanjuntak/Kegembiraan rakyat Indonesia yang sudah terbebas dari kesedihan, penyiksaan, kesengsaraan, dan perbudakkan saat penjajahan.kegembiraan rakyat Indonesia yang sudah terbebas dari kesedihan, penyiksaan, kesengsaraan, dan perbudakkan saat penjajahan.",
+      "image": "card_image_music_01",
+      "file": "track_11"
+    },
+    {
+      "number": 12,
+      "duration": "2:46",
+      "title": "Syukur",
+      "description": "H Mutahar/Tentang rasa syukur pada Tuhan karena Indonesia telah merdeka",
+      "image": "card_image_music_01",
+      "file": "track_12"
+    }
+
+  ]
+}
